@@ -97,6 +97,16 @@ Transformar a unidades de voltios y amperios y aplicar la formula
 
 ![image](https://user-images.githubusercontent.com/116810935/202516833-410b8123-935a-4be0-b57c-e0d3182306d4.png)
 
+Transformar las unidades a ohm para poder obtener las respuestas con 5% de error 
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+La resistencia será de R = 37.4 Ω
+
+![image](https://user-images.githubusercontent.com/116810935/202517130-44bc456c-7b0a-44a0-901b-c5845926e997.png)
+
+Reconocer la resistencia en ohm para aplicar la fórmula y encontrar la corriente 
+
+22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ωo menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
 
 
