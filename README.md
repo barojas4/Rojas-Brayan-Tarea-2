@@ -12,10 +12,12 @@ MATERIA: Fundamentos de Circuitos electricos
 
 * Objetivo General
 
+Analizar la teoria de la ley de  Ohm y la ley watt para poder resolver problemas de circuitos en serie o paralelos, tambien evidenciar nuevos conceptos como potencia y energia. 
 
 
 * Objetivos especificos
 
+Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm asi como la ley de watt en donde se tiene que tener definido bien los conceptos de resistecias, corriente, voltaje entre otros conceptos.
 
 ## 2.Marco Teorico (Resumen)
 
@@ -321,7 +323,7 @@ Transformar la eficiencia a watts para aplicar la fórmula
  
  ## 5.Conlusión 
  
- * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la notación científica es importante en la rama de circuitos eléctricos para poder entender las notaciones representadas en diagramas en el capítulo 2 se pudo comprender los conceptos de voltaje, corriente eléctrica, resistencia, diagramas y mediciones utilizando herramientas como el multímetro o el amperímetro.
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la ley de Ohm sirve para encontrar ya sea intensidad de corriente electrica, voltaje o resistencia tambien es posible evidenciar la relacion de la ley de watt para encontrar nuevos conceptos como potencia y enerigia.
   
 * Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
