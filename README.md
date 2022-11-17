@@ -37,7 +37,65 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 
 ## 3. Explicacion y resolucion de ejercicios
 
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
+Para encontrar la intensidad se utiliza I = V/R conociendo los calores de V y R
+
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+Para encontrar la intensidad se utiliza la resistencia se utiliza la siguiente formula R=V/I
+
+6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+(a) V = 1.5 V
+
+Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.0075 A
+
+(b) V = 2V
+
+Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.01 A
+
+(c) V = 3V
+
+Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.01 A
+
+(d) V = 4V
+
+Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.02 A
+
+(e) V = 10 V
+
+Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.05 A
+
+
+## EJERCICIO 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![image](https://user-images.githubusercontent.com/116810935/202516059-cba44a07-68a0-49e5-98e4-b37b19322500.png)
+
+El resultado es que tiene menos es c
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+
+![image](https://user-images.githubusercontent.com/116810935/202516229-5082c2e9-4e94-4e2a-abe5-7912c4cd3a84.png)
+
+Primero transformamos las unidades y aplicamos ley de ohm para encontrar la resistencia una vez encontrada la resistencia encuentro el voltaje 
+
+## Cálculo de corriente 
+
+14. Determine la corriente en cada caso:
+
+![image](https://user-images.githubusercontent.com/116810935/202516396-f8e7349b-fbc1-4949-9c49-2a85c66b0c8f.png)
+
+![image](https://user-images.githubusercontent.com/116810935/202516550-1dd5eeaf-ef79-4cfa-9ad3-32fa926f5979.png)
+
+Transformar a unidades de voltios y amperios y aplicar la formula 
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![image](https://user-images.githubusercontent.com/116810935/202516833-410b8123-935a-4be0-b57c-e0d3182306d4.png)
 
 
 
