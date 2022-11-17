@@ -83,22 +83,17 @@ El resultado es que tiene menos es c
 
 Primero transformamos las unidades y aplicamos ley de ohm para encontrar la resistencia una vez encontrada la resistencia encuentro el voltaje 
 
+## 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
 ## Cálculo de corriente 
 
-14. Determine la corriente en cada caso:
+16. Determine la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/116810935/202516396-f8e7349b-fbc1-4949-9c49-2a85c66b0c8f.png)
 
 ![image](https://user-images.githubusercontent.com/116810935/202517619-dac534a7-e8e3-450d-a06f-495ea47a5d1a.png)
 
 Transformar a unidades de voltios y amperios y aplicar la ley de Ohm
-
-16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
-
-
-![image](https://user-images.githubusercontent.com/116810935/202521388-f3d3ba6e-3e14-4dcf-85eb-364d7902475b.png)
-
-Para poder encontrar el tiempo necesitamos del valor de potencia y voltaje para sustituir en la formula de Watt
 
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
@@ -134,7 +129,15 @@ Transformar a unidades de Amperes y Ohm para convertir a voltaje
 ![image](https://user-images.githubusercontent.com/116810935/202522740-88aaf59b-5a5b-46dc-bc1d-738898a8c960.png)
 
 
-Utilizar la formula R = V x I darnos cuenta que estén bien las unidades de medida
+ Utilizar la formula R = V x I darnos cuenta que estén bien las unidades de medida
+
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+![image](https://user-images.githubusercontent.com/116810935/202525058-ccc09ff8-23f1-4842-b9e5-69b5aba50ae1.png)
+
+Utilizar la ley de Ohm y reemplazar los datos
+
 
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
