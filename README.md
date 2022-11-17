@@ -249,11 +249,41 @@ Recolectar datos y remplazar en las fórmulas
 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
 
+![image](https://user-images.githubusercontent.com/116810935/202533815-e94030b9-3f20-4433-bd95-e2fa4e66e946.png)
 
 
+Utilizar la fórmula P = V x I tomando en cuenta las unidades 
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+![image](https://user-images.githubusercontent.com/116810935/202533933-4af24ab5-2e58-486b-8164-5d3927e7ffea.png)
+
+Recolectar datos y transformar los 500mA a amperes y los 4.7 k Ω a Ω para remplazar en la fórmula 
+
+22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/116810935/202534032-8ef2c129-16dd-4872-9919-6df680ef8a1a.png)
+
+Recolectamos datos y aplicamos la fórmula  P = V x I
+
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![image](https://user-images.githubusercontent.com/116810935/202534333-7d4e32d3-908c-438b-b1e3-4bf829202de2.png)
+
+Recolectamos los datos para después remplazar en la fórmula 
+
+## Clasificaciones de potencia en resistores
+
+26. Un resistor de 6.8 k Ω se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+
+![image](https://user-images.githubusercontent.com/116810935/202534455-2bb7f53f-4039-42ab-854b-39ed59dd2319.png)
+
+La clasificación de potencia tendrá que ser de 6.8 Watts
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
 
-
+![image](https://user-images.githubusercontent.com/116810935/202534541-b608ecb7-d6a4-4363-9eaf-537364911781.png)
 
 
 
