@@ -145,6 +145,123 @@ Utilizar la ley de Ohm y reemplazar los datos
 
 Utilizamos ley de ohm y reemplazamos los datos obtenidos 
 
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias
+
+
+Obtener el valor que mide el amperímetro y con la fuente de poder que mide 12 V utilizamos la ley de omh 
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
+
+
+36 En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmímetro mostradas.
+
+![image](https://user-images.githubusercontent.com/116810935/202531844-43bb08d8-7db4-4527-ad8f-9496c7451885.png)
+
+## SECCION 4
+
+2. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+
+![image](https://user-images.githubusercontent.com/116810935/202532052-81a45c06-ebc5-4776-8b8f-19571ab75cb7.png)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+
+![image](https://user-images.githubusercontent.com/116810935/202532119-5a694b55-767e-483a-8892-185545786f97.png)
+
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+
+(a) 1000 W 
+
+1kilowatt = 1000 watts con una regla de 3 obtenemos que 1000W = 1Kilowatt
+
+(b) 3750 W
+
+1kilowatt = 1000 watts con una regla de 3 obtenemos que 3750W = 3.75Kilowatt
+
+(c) 160 W 
+
+1kilowatt = 1000 watts con una regla de 3 obtenemos que 160W = 0.16Kilowatt
+
+(d) 50,000 W
+
+1kilowatt = 1000 watts con una regla de 3 obtenemos que 50000W = 50 Kilowatt
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+(a) 1 W 
+
+1 Watt = 1000 mW con una regla de 3 obtenemos que 1W = 1000mW 
+
+(b) 0.4 W
+
+1 Watt = 1000 mW con una regla de 3 obtenemos que 0.4W = 400mW 
+
+(c) 0.002 W 
+
+1 Watt = 1000 mW con una regla de 3 obtenemos que 0.002W = 2mW 
+
+(d) 0.0125 W
+
+1 Watt = 1000 mW con una regla de 3 obtenemos que 0.0125W = 12.5mW 
+
+10. Convierta las siguientes cantidades en watts
+
+a) 1.5 kW 
+
+1 kW = 1000 W con una regla de 3 obtenemos que 1.5kW = 1500W
+
+(b) 0.5 MW 
+
+1 MW = 1000000W con una regla de 3 obtenemos que 0.5 MW = 500000 W
+
+(c) 350 mW 
+
+1 mW = 0.001 W con una regla de 3 obtenemos que 350mW = 0.35W
+
+(d) 9000µW
+
+1 µW = 0.000001 W con una regla de 3 obtenemos que 9000µW = 0.009 W
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+
+![image](https://user-images.githubusercontent.com/116810935/202533087-e64f4ee2-f412-41d8-a924-57c935429d72.png)
+
+
+Transformar la potencia en kW después los 30 días en horas y remplazar los datos en la fórmula
+
+14. Convierta 5x10^-6 watts-minutos en kWh
+
+![image](https://user-images.githubusercontent.com/116810935/202533229-3889f659-7608-48f1-b9aa-be39195828d6.png)
+
+Transformar los minutos en hora y los watts a kW
+
+16. Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
