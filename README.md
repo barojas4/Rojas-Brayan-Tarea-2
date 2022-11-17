@@ -242,7 +242,11 @@ Transformar los minutos en hora y los watts a kW
 16. Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 
 
+![image](https://user-images.githubusercontent.com/116810935/202533553-13f9b594-39e6-44eb-b8a0-573f5a94dae8.png)
 
+Recolectar datos y remplazar en las fórmulas 
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
 
 
