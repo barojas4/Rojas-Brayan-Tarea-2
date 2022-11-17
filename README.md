@@ -89,9 +89,16 @@ Primero transformamos las unidades y aplicamos ley de ohm para encontrar la resi
 
 ![image](https://user-images.githubusercontent.com/116810935/202516396-f8e7349b-fbc1-4949-9c49-2a85c66b0c8f.png)
 
-![image](https://user-images.githubusercontent.com/116810935/202516550-1dd5eeaf-ef79-4cfa-9ad3-32fa926f5979.png)
+![image](https://user-images.githubusercontent.com/116810935/202517619-dac534a7-e8e3-450d-a06f-495ea47a5d1a.png)
 
-Transformar a unidades de voltios y amperios y aplicar la formula 
+Transformar a unidades de voltios y amperios y aplicar la ley de Ohm
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
+
+![image](https://user-images.githubusercontent.com/116810935/202521388-f3d3ba6e-3e14-4dcf-85eb-364d7902475b.png)
+
+Para poder encontrar el tiempo necesitamos del valor de potencia y voltaje para sustituir en la formula de Watt
 
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
@@ -104,9 +111,17 @@ La resistencia será de R = 37.4 Ω
 
 ![image](https://user-images.githubusercontent.com/116810935/202517130-44bc456c-7b0a-44a0-901b-c5845926e997.png)
 
-Reconocer la resistencia en ohm para aplicar la fórmula y encontrar la corriente 
+Reconocer la resistencia en ohm para aplicar la ley de Ohm y encontrar la corriente 
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ωo menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![image](https://user-images.githubusercontent.com/116810935/202517903-22bdc2a2-d7bc-4b06-9fa5-a8d7032f94b2.png)
+
+Resistencia variable 120 – 100 = 20 V 
+
+Corriente real I = 20/8 = 2.5 A
+
+El fusible debe de ser de 2.5 A para proteger el circuito
 
 
 
