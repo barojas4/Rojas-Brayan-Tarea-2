@@ -315,7 +315,20 @@ Transformar la eficiencia a watts para aplicar la fórmula
 
 
 
+ ## 4. Video
+ 
+ link del video: 
+ 
+ ## 5.Conlusión 
+ 
+ * En conclusión en la tarea presente se logró alcanzar los objetivos plantados anteriormente se entiende que la notación científica es importante en la rama de circuitos eléctricos para poder entender las notaciones representadas en diagramas en el capítulo 2 se pudo comprender los conceptos de voltaje, corriente eléctrica, resistencia, diagramas y mediciones utilizando herramientas como el multímetro o el amperímetro.
+  
+* Se realizo un trabajo eficiente que permite reconocer los conceptos de la electrónica fundamental, en beneficio del trabajo se logró definir formulas muy importantes.
 
+
+## 6. Bibliografía
+
+* Floyd, T.(2007). Principios de circuitos electricos(Octava edi). México Pearson
 
 
 
