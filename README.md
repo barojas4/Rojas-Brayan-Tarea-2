@@ -287,7 +287,31 @@ La clasificación de potencia tendrá que ser de 6.8 Watts
 
 
 
+30 Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
+![image](https://user-images.githubusercontent.com/116810935/202534919-1f3678a4-24bd-474e-b89f-24cc1574781e.png)
+
+
+Recolectamos datos y utilizamos ley de ohm para encontrar la intensidad y aplicar la fórmula de potencia 
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![image](https://user-images.githubusercontent.com/116810935/202535050-66f7e7b2-af7f-4c08-8eb9-e3b36518b826.png)
+
+Recolectar datos y utilizar la formula I x t = Q  sin olvidarnos de las medidas metricas
+
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![image](https://user-images.githubusercontent.com/116810935/202535378-cc2d8242-1fae-4473-8b5e-90484bef2f53.png)
+
+Recolectar datos para remplazar en la formula 
+
+36 Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/116810935/202535455-3da62361-8f5c-4b4e-a0b3-e10bc56aa0de.png)
+
+Transformar la eficiencia a watts para aplicar la fórmula 
 
 
 
