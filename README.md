@@ -309,7 +309,7 @@ Recolectar datos y utilizar la formula I x t = Q  sin olvidarnos de las medidas 
 
 Recolectar datos para remplazar en la formula 
 
-36 Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
 ![image](https://user-images.githubusercontent.com/116810935/202535455-3da62361-8f5c-4b4e-a0b3-e10bc56aa0de.png)
 
