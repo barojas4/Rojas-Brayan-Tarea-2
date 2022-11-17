@@ -123,6 +123,24 @@ Corriente real I = 20/8 = 2.5 A
 
 El fusible debe de ser de 2.5 A para proteger el circuito
 
+24. Calcule el voltaje para cada valor de I y R:
+
+![image](https://user-images.githubusercontent.com/116810935/202522573-b8b6cc5f-384e-4786-98a1-f5fbe69ed3c4.png)
+
+Transformar a unidades de Amperes y Ohm para convertir a voltaje 
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/116810935/202522740-88aaf59b-5a5b-46dc-bc1d-738898a8c960.png)
+
+
+Utilizar la formula R = V x I darnos cuenta que estén bien las unidades de medida
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/116810935/202523765-ad7903ed-b0de-4f4e-9dbb-27aadbd43020.png)
+
+Utilizamos ley de ohm y reemplazamos los datos obtenidos 
 
 
 
