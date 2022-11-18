@@ -5,7 +5,7 @@ Nombre: Brayan Rojas
 
 NRC: 10067
 
-MATERIA: Fundamentos de Circuitos electricos 
+MATERIA: Fundamentos de Circuitos Electricos 
 
 ## 1.Objetivos
 
