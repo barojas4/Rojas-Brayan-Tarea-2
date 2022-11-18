@@ -88,7 +88,9 @@ El resultado es que tiene menos es c
 
 Primero transformamos las unidades y aplicamos ley de ohm para encontrar la resistencia una vez encontrada la resistencia encuentro el voltaje 
 
-## 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+Si tiene una relación lineal por que la Intensidad y el voltaje depende uno del otro 
 
 ## Cálculo de corriente 
 
