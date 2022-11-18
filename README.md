@@ -154,6 +154,9 @@ Obtener el valor que mide el amperímetro y con la fuente de poder que mide 12 V
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
 
+![image](https://user-images.githubusercontent.com/116810935/202585793-ed74c723-7822-4edc-8766-4b37edd6f0a5.png)
+
+
 
 36 En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmímetro mostradas.
 
