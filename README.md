@@ -69,8 +69,11 @@ Se realiza una regla de 3 porque tenemos una relación inicial, pero transforman
 
 Se realiza una regla de 3 porque tenemos una relación inicial, pero transformando los miliamperios a amperios y la respuesta es 0.05 A
 
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
-## EJERCICIO 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+![image](https://user-images.githubusercontent.com/116810935/202586236-8886e820-0bc9-4123-b477-46f556c0f5d6.png)
+
+![image](https://user-images.githubusercontent.com/116810935/202586282-348af153-9ae7-4fd8-84fd-59de78cf2458.png)
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
