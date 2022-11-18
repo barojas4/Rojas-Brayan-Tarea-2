@@ -37,7 +37,7 @@ Para entender la teoría de circuitos eléctricos desde lo más básico es indis
 ![12](https://user-images.githubusercontent.com/116810935/202505940-6d4b3f44-7637-4e48-ac46-e7e996a78d9c.jpg)
 
 
-## 3. Explicacion y resolucion de ejercicios
+## 3. Explicacion y resolución de ejercicios
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
